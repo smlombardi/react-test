@@ -1,0 +1,13 @@
+app/bower_components
+.sass-cache
+node_modules
+app/assets/css
+app/assets/sass/designsystem/ds4
+build/assets/css
+.idea
+build
+dist
+.git
+dspackage/dist/css
+dspackage/dist/
+dspackage
